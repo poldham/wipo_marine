@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "Paul Oldham"
+date: "22 March 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+The repository for the WIPO analytics project on marine genetic resources from the ASEAN region. 
