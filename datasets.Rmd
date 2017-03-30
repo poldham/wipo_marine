@@ -1,0 +1,24 @@
+---
+title: "datasets"
+author: "Paul Oldham"
+date: "3/30/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Datases
+
+This document lists the datasets used in the landscape on marine genetic resources in the ASEAN region
+
+## PATSTAT
+
+The IISC electronic version of PATSTAT was used to generate searches in PATSTAT for the ASEAN countries
+
+Dataset 1: asean_person_country_patstat.vpt
+
+This 6 gigabyte dataset in VantagePoint format contains 109,744 application records where the person_country in PATSTAT table tls206_person countrys contained a two letter country code that was either xxxxxx.
+
+Dataset 2: asean_publn_auth_patstat. This file contains

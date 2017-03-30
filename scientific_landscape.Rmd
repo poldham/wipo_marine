@@ -1,0 +1,55 @@
+---
+title: "ASEAN Scientific Landscape"
+author: "Paul Oldham"
+date: "3/30/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Preparatory work
+
+## Scientific Literature
+
+Web of Science Core Collection Counts in the Address Field of Basic Search
+
+Address Field Only. Search on the 30th of March 2017
+
+Brunei Darussalam 2,294
+Cambodia 2,820
+Indonesia 44,930 
+Lao PDR 1,941
+Malaysia 162,843
+Myanmar or Burma 1997
+Philippines 28,538
+Singapore 240,639
+Thailand 127,044
+Vietnam 33,337
+
+Strategy is to review the subject categories of the Africa Region to identify a consistent list to downlaod.
+
+
+
+
+
+
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
