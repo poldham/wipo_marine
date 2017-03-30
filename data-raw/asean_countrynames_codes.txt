@@ -1,0 +1,10 @@
+BN: Brunei Darussalam 
+KH: Cambodia
+ID: Indonesia
+LA: Lao PDR
+MY: Malaysia
+MM: Myanmar
+PH: Philippines
+SG: Singapore
+TH: Thailand
+VN: Viet Nam
