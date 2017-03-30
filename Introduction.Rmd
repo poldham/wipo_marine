@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+author: "Paul Oldham"
+date: "3/27/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This patent landscape report focuses on scientific research and patent activity for marine genetic resources involving 10 ASEAN countries: Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam.
+
+Marine genetic resources are a topic of increasing interest for ASEAN countries in the context of the development of strategies for the growth of the Blue Economy. The United Nations General Assembly is also discussing the establishment of a new treaty on the conservation, sustainable use, and access and benefit sharing of marine biological diversity in Areas Beyond National Jurisdiction (ABNJ) within the framework of the United Nations Convention on the Law of the Sea ([resolution 69/292](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/RES/69/292&Lang=E)). The United Nations Convention on Biological Diversity has a long running [Programme of Work on Marine and Coastal Biodiversity](https://www.cbd.int/marine) and the subject of marine genetic resources within national jurisdictions falls within the scope of the [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/).
+
+Very little information is presently available on scientific research and patent activity for marine genetic resources in the ASEAN region. This landscape report focuses exclusively on 10 countries in the ASEAN region and explores:
+
+a) The scientific landscape for marine genetic resources in the ASEAN region;
+b) The patent landscape for marine genetic resources in the ASEAN region with a specific focus on activity involving ASEAN countries. 
+
+An important aspect of this landscape report is to advance knowledge and understanding of the range of tools and methods that can be used in patent landscape analysis. The report will use a combination of commercial, open source and free software tools and builds on work at WIPO in developing [the WIPO Manual on Open Source Patent Analytics](https://wipo-analytics.github.io/) and accompanying [training workshops](https://github.com/wipo-analytics). The report is grounded in the principle of [reproducible research](https://en.wikipedia.org/wiki/Reproducibility) in patent analytics where methods and relevant data are made available for use by researchers and patent offices to adapt for their own needs. All materials and data are made available through the open access online [Github repository](https://github.com/poldham/wipo_marine). The report is being written in the open and new sections will be posted to the project site as they are written. 
